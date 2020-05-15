@@ -1,6 +1,6 @@
 **Title: Beer is Awesome!**
 
-Team Members:
+**Team Members:**
 * Sean Teeling
 * Scot Thompson
 * Scott Dowling
