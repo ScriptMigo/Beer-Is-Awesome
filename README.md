@@ -8,6 +8,7 @@
 * Melissa Williamson
 
 **Project Outline:**
+
 We will look at multiple properties across different brands of beer from various categories,
 in order to determine what properties or comibination of properties result in the 
 best ratings? We will also compare top rated beers with sentiment to determine
