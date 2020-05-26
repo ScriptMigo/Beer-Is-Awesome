@@ -34,4 +34,4 @@ What beer types have a larger share of positive or negative feedback?
 * Scot: Tableau, ML, present
 * Scott: API BS and crap, SQL, Tableau
 * Saurin: ML, present
-* Melissa: Most of the work
+* Melissa: SQL, Tableau, PM
