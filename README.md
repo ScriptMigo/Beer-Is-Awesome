@@ -30,8 +30,8 @@ What beer types have a larger share of positive or negative feedback?
 * matplotlib
 
 **Rough Breakdown of Tasks:**
-* Sean: ML, SQL
-* Scot: Tableau, ML, present
-* Scott: API BS and crap, SQL, Tableau
-* Saurin: ML, present
-* Melissa: SQL, Tableau, PM
+* Sean: SQL, Tableau
+* Scot: ML, present
+* Scott: API BS and crap, SQL, Tableau, present
+* Saurin: ML, SQL, present
+* Melissa: API, Tableau, PM
